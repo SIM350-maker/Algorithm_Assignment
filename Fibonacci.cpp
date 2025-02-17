@@ -5,7 +5,7 @@ using namespace std;
 long long fibonacci(int n) {
     if (n <= 0) return 0; // Base case: if n is 0 or less, return 0 // runtime: 1 microsecond
     if (n == 1) return 1; // Base case: if n is 1, return 1 // runtime: 1 microsecond
-    
+
     long long a = 0; // Fibonacci(n-2) // runtime: 1 microsecond
     long long b = 1; // Fibonacci(n-1) // runtime: 1 microsecond
     long long fib_n = 1; // Current Fibonacci term // runtime: 1 microsecond
