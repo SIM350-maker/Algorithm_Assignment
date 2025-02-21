@@ -18,6 +18,11 @@
 4. **Total runtime**:
    - Initialization time + Total iteration time + Return time = 1 microsecond + 10 microseconds + 1 microsecond = 12 microseconds
 
+   ### Factorial Algorithm
+![Factorial](images/factorial.png)
+
+
+
 ## Fibonacci Program Runtime Calculation
 1. **Base Case Checks**:
    - Runtime: 1 microsecond + 1 microsecond = 2 microseconds
@@ -34,3 +39,7 @@
 
 5. **Total runtime**:
    - Base case time + Initialization time + Total iteration time + Return time = 2 microseconds + 3 microseconds + 27 microseconds + 1 microsecond = 33 microseconds
+
+
+### Fibonacci Algorithm
+![Fibonacci](images/fibonacci.png)
